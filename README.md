@@ -1,5 +1,5 @@
-@shawngibford //
-quantum generative ai //
+@shawngibford 
+quantum generative ai 
 shawgi@dtu.dk
 <!---
 shawngibford/shawngibford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
